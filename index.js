@@ -51,7 +51,7 @@ client.on("message", async (message) => {
 
 
 
-client.login("NzI1MDI2NDg3NjE0MzA4NDMz.XvIviA.cyfOXZn987pX9ZRNO9lDjwSRPGQ");
+client.login("NzgyMTUyODcxNzI1NzYwNTEy.X8ICoA.zt0pw3NHy46fk-GHxaikItuM0Kw");
 
 
 //--------------------------------------------------- F U N C T I O N S --------------------------------------
